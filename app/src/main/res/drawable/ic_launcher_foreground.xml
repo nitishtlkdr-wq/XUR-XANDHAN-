@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center 66dp safe zone (21 to 87) -->
+    <!-- Stylized Assamese Pepa Horn & Music Waves -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M34,68 C36,54 46,44 60,40 L60,34 L66,34 L66,40 C73,42 78,48 78,56 C78,64 72,70 64,70 C56,70 50,64 50,56 C50,52 52,48 56,45 C47,48 40,56 38,66 Z" />
+    <!-- Music note stem and flag -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M60,35 L60,56 C58.5,55.3 56.8,55 55,55 C49.5,55 45,58.6 45,63 C45,67.4 49.5,71 55,71 C60.5,71 65,67.4 65,63 L65,42 L77,39 L77,33 L60,35 Z" />
+    <!-- Acoustic Sound Embers -->
+    <path
+        android:fillColor="#FDE047"
+        android:pathData="M78,48 C81,51 81,57 78,60 L80,62 C84,58 84,50 80,46 Z" />
+    <path
+        android:fillColor="#FCD34D"
+        android:pathData="M83,44 C88,49 88,59 83,64 L85,66 C91,60 91,48 85,42 Z" />
+</vector>

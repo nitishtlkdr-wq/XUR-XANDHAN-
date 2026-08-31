@@ -1,0 +1,6 @@
+{
+  "name": "Xur-Xandhan",
+  "description": "Spotify-style Assamese folk musical instruments portal, audio playlist player, voice AI search & admin studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
